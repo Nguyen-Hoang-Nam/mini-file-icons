@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "svg2ttf": "^6.0.3",
+        "svgicons2svgfont": "^10.0.5"
+    },
+    "type": "module"
+}
