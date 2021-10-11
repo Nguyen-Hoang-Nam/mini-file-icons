@@ -35,7 +35,7 @@ let data = "";
         fontHeight: 1000,
     });
 
-    const icons = await getAllIcons("./icons/");
+    const icons = await getAllIcons("./icons");
     const [iconPaths, iconNames] = icons;
 
     const iconsLength = iconPaths.length;
