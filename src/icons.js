@@ -22,7 +22,7 @@ This is list of icons with svg icon, name of icon and unicode
 
         const iconImage = `<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main${iconPaths[
             iconIndex
-        ].substring(1)}" height="34" valign="bottom" hspace="3" alt=""`;
+        ].substring(1)}" height="34" valign="bottom" hspace="3" alt=""/>`;
 
         let row = "| ";
         row += `${iconImage} | ${iconNames[iconIndex]} | ${iconUnicode} |\n`;
