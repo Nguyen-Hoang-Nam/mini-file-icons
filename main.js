@@ -52,7 +52,7 @@ let data = "";
 
         const glyph = createReadStream(iconPaths[iconIndex]);
         glyph.metadata = {
-            unicode: [utf],
+            unicode: [String.fromCharCode(parseInt(utf, 16))],
             name: iconNames[iconIndex],
         };
 
@@ -72,8 +72,6 @@ let data = "";
     fontStream.on("end", async () => {
         const ttf = svg2ttf(data, {});
         await writeFile("./fonts/mini-file-icons.ttf", Buffer.from(ttf.buffer));
-
-        // console.log(iconUnicode);
 
         listIconMarkdown(indices, iconPaths, iconNames, iconUnicode);
     });
