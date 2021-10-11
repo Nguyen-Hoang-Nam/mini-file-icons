@@ -13,6 +13,8 @@ so if you want more or less then fork it and change.
 
 ## List of icons
 
+[Icons](https://github.com/Nguyen-Hoang-Nam/mini-file-icons/blob/main/icons.md)
+
 ## Contributing
 
 Pull requests are welcome. For major changes,

@@ -20,8 +20,12 @@ This is list of icons with svg icon, name of icon and unicode
 
         const iconUnicode = String.fromCharCode(parseInt(iconUnicodes[i], 16));
 
+        const iconImage = `<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/${iconNames[
+            iconIndex
+        ].substring(1)}" height="34" valign="bottom" hspace="3" alt=""`;
+
         let row = "| ";
-        row += `![${iconNames[iconIndex]}](${iconPaths[iconIndex]}) | ${iconNames[iconIndex]} | ${iconUnicode} |\n`;
+        row += `![${iconImage}](${iconPaths[iconIndex]}) | ${iconNames[iconIndex]} | ${iconUnicode} |\n`;
 
         markdownFile += row;
     }

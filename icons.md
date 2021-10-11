@@ -4,94 +4,94 @@ This is list of icons with svg icon, name of icon and unicode
 
 | Icon | Name | Unicode |
 | ---- | ---- | ------- |
-| ![aaa-C.svg](./icons//Mfizz/aaa-C.svg) | aaa-C.svg |  |
-| ![aab-DB.svg](./icons//Mfizz/aab-DB.svg) | aab-DB.svg |  |
-| ![aac-Elixir.svg](./icons//Mfizz/aac-Elixir.svg) | aac-Elixir.svg |  |
-| ![aad-Java.svg](./icons//Mfizz/aad-Java.svg) | aad-Java.svg |  |
-| ![aae-JS.svg](./icons//Mfizz/aae-JS.svg) | aae-JS.svg |  |
-| ![aaf-Maven.svg](./icons//Mfizz/aaf-Maven.svg) | aaf-Maven.svg |  |
-| ![aag-Scala.svg](./icons//Mfizz/aag-Scala.svg) | aag-Scala.svg |  |
-| ![aah-SVG.svg](./icons//Mfizz/aah-SVG.svg) | aah-SVG.svg |  |
-| ![aai-Class.svg](./icons//Nonicons/aai-Class.svg) | aai-Class.svg |  |
-| ![aaj-Field.svg](./icons//Nonicons/aaj-Field.svg) | aaj-Field.svg |  |
-| ![aak-Alert.svg](./icons//Octicons/aak-Alert.svg) | aak-Alert.svg |  |
-| ![aal-Binary.svg](./icons//Octicons/aal-Binary.svg) | aal-Binary.svg |  |
-| ![aam-Bug.svg](./icons//Octicons/aam-Bug.svg) | aam-Bug.svg |  |
-| ![aap-CodeSquare.svg](./icons//Octicons/aap-CodeSquare.svg) | aap-CodeSquare.svg |  |
-| ![aaq-Diff.svg](./icons//Octicons/aaq-Diff.svg) | aaq-Diff.svg |  |
-| ![aar-DiffAdd.svg](./icons//Octicons/aar-DiffAdd.svg) | aar-DiffAdd.svg |  |
-| ![aas-DiffModified.svg](./icons//Octicons/aas-DiffModified.svg) | aas-DiffModified.svg |  |
-| ![aat-DiffRemoved.svg](./icons//Octicons/aat-DiffRemoved.svg) | aat-DiffRemoved.svg |  |
-| ![aau-Dot.svg](./icons//Octicons/aau-Dot.svg) | aau-Dot.svg |  |
-| ![aav-Direcotry.svg](./icons//Octicons/aav-Direcotry.svg) | aav-Direcotry.svg |  |
-| ![aaw-OpenDirecotry.svg](./icons//Octicons/aaw-OpenDirecotry.svg) | aaw-OpenDirecotry.svg |  |
-| ![aax-Symlink.svg](./icons//Octicons/aax-Symlink.svg) | aax-Symlink.svg |  |
-| ![aay-Config.svg](./icons//Octicons/aay-Config.svg) | aay-Config.svg |  |
-| ![aaz-Branch.svg](./icons//Octicons/aaz-Branch.svg) | aaz-Branch.svg |  |
-| ![aba-Commit.svg](./icons//Octicons/aba-Commit.svg) | aba-Commit.svg |  |
-| ![abb-Heart.svg](./icons//Octicons/abb-Heart.svg) | abb-Heart.svg |  |
-| ![abc-Image.svg](./icons//Octicons/abc-Image.svg) | abc-Image.svg |  |
-| ![abd-Info.svg](./icons//Octicons/abd-Info.svg) | abd-Info.svg |  |
-| ![abe-Interface.svg](./icons//Octicons/abe-Interface.svg) | abe-Interface.svg |  |
-| ![abf-License.svg](./icons//Octicons/abf-License.svg) | abf-License.svg |  |
-| ![abg-LightBulb.svg](./icons//Octicons/abg-LightBulb.svg) | abg-LightBulb.svg |  |
-| ![abh-List.svg](./icons//Octicons/abh-List.svg) | abh-List.svg |  |
-| ![abi-Note.svg](./icons//Octicons/abi-Note.svg) | abi-Note.svg |  |
-| ![abj-Package.svg](./icons//Octicons/abj-Package.svg) | abj-Package.svg |  |
-| ![abk-Smiley.svg](./icons//Octicons/abk-Smiley.svg) | abk-Smiley.svg |  |
-| ![abl-Tools.svg](./icons//Octicons/abl-Tools.svg) | abl-Tools.svg |  |
-| ![abm-File.svg](./icons//Octicons/abm-File.svg) | abm-File.svg |  |
-| ![abn-Error.svg](./icons//Octicons/abn-Error.svg) | abn-Error.svg |  |
-| ![abo-Zap.svg](./icons//Octicons/abo-Zap.svg) | abo-Zap.svg |  |
-| ![abp-Bat.svg](./icons//Devicons/abp-Bat.svg) | abp-Bat.svg |  |
-| ![abq-CSS.svg](./icons//Devicons/abq-CSS.svg) | abq-CSS.svg |  |
-| ![abr-Dart.svg](./icons//Devicons/abr-Dart.svg) | abr-Dart.svg |  |
-| ![abs-Erl.svg](./icons//Devicons/abs-Erl.svg) | abs-Erl.svg |  |
-| ![abt-FS.svg](./icons//Devicons/abt-FS.svg) | abt-FS.svg |  |
-| ![abu-Git.svg](./icons//Devicons/abu-Git.svg) | abu-Git.svg |  |
-| ![abv-Haskell.svg](./icons//Devicons/abv-Haskell.svg) | abv-Haskell.svg |  |
-| ![abw-HTML.svg](./icons//Devicons/abw-HTML.svg) | abw-HTML.svg |  |
-| ![abx-MD.svg](./icons//Devicons/abx-MD.svg) | abx-MD.svg |  |
-| ![aby-Heroku.svg](./icons//Devicons/aby-Heroku.svg) | aby-Heroku.svg |  |
-| ![abz-Python.svg](./icons//Devicons/abz-Python.svg) | abz-Python.svg |  |
-| ![aca-Ruby.svg](./icons//Devicons/aca-Ruby.svg) | aca-Ruby.svg |  |
-| ![acb-Rust.svg](./icons//Devicons/acb-Rust.svg) | acb-Rust.svg |  |
-| ![acc-SASS.svg](./icons//Devicons/acc-SASS.svg) | acc-SASS.svg |  |
-| ![acd-Awk.svg](./icons//File-Icons/acd-Awk.svg) | acd-Awk.svg |  |
-| ![ace-CS.svg](./icons//File-Icons/ace-CS.svg) | ace-CS.svg |  |
-| ![acf-CPP.svg](./icons//File-Icons/acf-CPP.svg) | acf-CPP.svg |  |
-| ![acg-Composer.svg](./icons//File-Icons/acg-Composer.svg) | acg-Composer.svg |  |
-| ![ach-Docker.svg](./icons//File-Icons/ach-Docker.svg) | ach-Docker.svg |  |
-| ![aci-EJS.svg](./icons//File-Icons/aci-EJS.svg) | aci-EJS.svg |  |
-| ![acj-ESLint.svg](./icons//File-Icons/acj-ESLint.svg) | acj-ESLint.svg |  |
-| ![ack-Go.svg](./icons//File-Icons/ack-Go.svg) | ack-Go.svg |  |
-| ![acl-Gradle.svg](./icons//File-Icons/acl-Gradle.svg) | acl-Gradle.svg |  |
-| ![acm-JSON.svg](./icons//File-Icons/acm-JSON.svg) | acm-JSON.svg |  |
-| ![acn-JSX.svg](./icons//File-Icons/acn-JSX.svg) | acn-JSX.svg |  |
-| ![aco-Julia.svg](./icons//File-Icons/aco-Julia.svg) | aco-Julia.svg |  |
-| ![acp-LaTeX.svg](./icons//File-Icons/acp-LaTeX.svg) | acp-LaTeX.svg |  |
-| ![acq-Lua.svg](./icons//File-Icons/acq-Lua.svg) | acq-Lua.svg |  |
-| ![acr-Nix.svg](./icons//File-Icons/acr-Nix.svg) | acr-Nix.svg |  |
-| ![acs-NPM.svg](./icons//File-Icons/acs-NPM.svg) | acs-NPM.svg |  |
-| ![act-PHP.svg](./icons//File-Icons/act-PHP.svg) | act-PHP.svg |  |
-| ![acu-Puppet.svg](./icons//File-Icons/acu-Puppet.svg) | acu-Puppet.svg |  |
-| ![acv-R.svg](./icons//File-Icons/acv-R.svg) | acv-R.svg |  |
-| ![acw-Rmarkdown.svg](./icons//File-Icons/acw-Rmarkdown.svg) | acw-Rmarkdown.svg |  |
-| ![acx-Rproj.svg](./icons//File-Icons/acx-Rproj.svg) | acx-Rproj.svg |  |
-| ![acy-Solidity.svg](./icons//File-Icons/acy-Solidity.svg) | acy-Solidity.svg |  |
-| ![acz-Svelte.svg](./icons//File-Icons/acz-Svelte.svg) | acz-Svelte.svg |  |
-| ![ada-Tailwind.svg](./icons//File-Icons/ada-Tailwind.svg) | ada-Tailwind.svg |  |
-| ![adb-Terminal.svg](./icons//File-Icons/adb-Terminal.svg) | adb-Terminal.svg |  |
-| ![adc-TOML.svg](./icons//File-Icons/adc-TOML.svg) | adc-TOML.svg |  |
-| ![add-TSX.svg](./icons//File-Icons/add-TSX.svg) | add-TSX.svg |  |
-| ![ade-TS.svg](./icons//File-Icons/ade-TS.svg) | ade-TS.svg |  |
-| ![adf-Vue.svg](./icons//File-Icons/adf-Vue.svg) | adf-Vue.svg |  |
-| ![adg-Webpack.svg](./icons//File-Icons/adg-Webpack.svg) | adg-Webpack.svg |  |
-| ![adh-YAML.svg](./icons//File-Icons/adh-YAML.svg) | adh-YAML.svg |  |
-| ![adi-Zig.svg](./icons//File-Icons/adi-Zig.svg) | adi-Zig.svg |  |
-| ![adj-Telescope.svg](./icons//Octicons/adj-Telescope.svg) | adj-Telescope.svg |  |
-| ![adk-Cmake.svg](./icons//File-Icons/adk-Cmake.svg) | adk-Cmake.svg |  |
-| ![adl-Kotlin.svg](./icons//File-Icons/adl-Kotlin.svg) | adl-Kotlin.svg |  |
-| ![adm-Font.svg](./icons//File-Icons/adm-Font.svg) | adm-Font.svg |  |
-| ![adn-Vim.svg](./icons//Devicons/adn-Vim.svg) | adn-Vim.svg |  |
-| ![ado-Ubuntu.svg](./icons//Mfizz/ado-Ubuntu.svg) | ado-Ubuntu.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/aa-C.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aaa-C.svg) | aaa-C.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ab-DB.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aab-DB.svg) | aab-DB.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ac-Elixir.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aac-Elixir.svg) | aac-Elixir.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ad-Java.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aad-Java.svg) | aad-Java.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ae-JS.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aae-JS.svg) | aae-JS.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/af-Maven.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aaf-Maven.svg) | aaf-Maven.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ag-Scala.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aag-Scala.svg) | aag-Scala.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ah-SVG.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/aah-SVG.svg) | aah-SVG.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ai-Class.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Nonicons/aai-Class.svg) | aai-Class.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/aj-Field.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Nonicons/aaj-Field.svg) | aaj-Field.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ak-Alert.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aak-Alert.svg) | aak-Alert.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/al-Binary.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aal-Binary.svg) | aal-Binary.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/am-Bug.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aam-Bug.svg) | aam-Bug.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ap-CodeSquare.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aap-CodeSquare.svg) | aap-CodeSquare.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/aq-Diff.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aaq-Diff.svg) | aaq-Diff.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ar-DiffAdd.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aar-DiffAdd.svg) | aar-DiffAdd.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/as-DiffModified.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aas-DiffModified.svg) | aas-DiffModified.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/at-DiffRemoved.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aat-DiffRemoved.svg) | aat-DiffRemoved.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/au-Dot.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aau-Dot.svg) | aau-Dot.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/av-Direcotry.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aav-Direcotry.svg) | aav-Direcotry.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/aw-OpenDirecotry.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aaw-OpenDirecotry.svg) | aaw-OpenDirecotry.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ax-Symlink.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aax-Symlink.svg) | aax-Symlink.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ay-Config.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aay-Config.svg) | aay-Config.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/az-Branch.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aaz-Branch.svg) | aaz-Branch.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ba-Commit.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/aba-Commit.svg) | aba-Commit.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bb-Heart.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abb-Heart.svg) | abb-Heart.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bc-Image.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abc-Image.svg) | abc-Image.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bd-Info.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abd-Info.svg) | abd-Info.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/be-Interface.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abe-Interface.svg) | abe-Interface.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bf-License.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abf-License.svg) | abf-License.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bg-LightBulb.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abg-LightBulb.svg) | abg-LightBulb.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bh-List.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abh-List.svg) | abh-List.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bi-Note.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abi-Note.svg) | abi-Note.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bj-Package.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abj-Package.svg) | abj-Package.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bk-Smiley.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abk-Smiley.svg) | abk-Smiley.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bl-Tools.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abl-Tools.svg) | abl-Tools.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bm-File.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abm-File.svg) | abm-File.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bn-Error.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abn-Error.svg) | abn-Error.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bo-Zap.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/abo-Zap.svg) | abo-Zap.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bp-Bat.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abp-Bat.svg) | abp-Bat.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bq-CSS.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abq-CSS.svg) | abq-CSS.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/br-Dart.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abr-Dart.svg) | abr-Dart.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bs-Erl.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abs-Erl.svg) | abs-Erl.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bt-FS.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abt-FS.svg) | abt-FS.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bu-Git.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abu-Git.svg) | abu-Git.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bv-Haskell.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abv-Haskell.svg) | abv-Haskell.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bw-HTML.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abw-HTML.svg) | abw-HTML.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bx-MD.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abx-MD.svg) | abx-MD.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/by-Heroku.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/aby-Heroku.svg) | aby-Heroku.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/bz-Python.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/abz-Python.svg) | abz-Python.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ca-Ruby.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/aca-Ruby.svg) | aca-Ruby.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cb-Rust.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/acb-Rust.svg) | acb-Rust.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cc-SASS.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/acc-SASS.svg) | acc-SASS.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cd-Awk.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acd-Awk.svg) | acd-Awk.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ce-CS.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/ace-CS.svg) | ace-CS.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cf-CPP.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acf-CPP.svg) | acf-CPP.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cg-Composer.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acg-Composer.svg) | acg-Composer.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ch-Docker.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/ach-Docker.svg) | ach-Docker.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ci-EJS.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/aci-EJS.svg) | aci-EJS.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cj-ESLint.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acj-ESLint.svg) | acj-ESLint.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ck-Go.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/ack-Go.svg) | ack-Go.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cl-Gradle.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acl-Gradle.svg) | acl-Gradle.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cm-JSON.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acm-JSON.svg) | acm-JSON.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cn-JSX.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acn-JSX.svg) | acn-JSX.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/co-Julia.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/aco-Julia.svg) | aco-Julia.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cp-LaTeX.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acp-LaTeX.svg) | acp-LaTeX.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cq-Lua.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acq-Lua.svg) | acq-Lua.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cr-Nix.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acr-Nix.svg) | acr-Nix.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cs-NPM.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acs-NPM.svg) | acs-NPM.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/ct-PHP.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/act-PHP.svg) | act-PHP.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cu-Puppet.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acu-Puppet.svg) | acu-Puppet.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cv-R.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acv-R.svg) | acv-R.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cw-Rmarkdown.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acw-Rmarkdown.svg) | acw-Rmarkdown.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cx-Rproj.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acx-Rproj.svg) | acx-Rproj.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cy-Solidity.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acy-Solidity.svg) | acy-Solidity.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/cz-Svelte.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/acz-Svelte.svg) | acz-Svelte.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/da-Tailwind.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/ada-Tailwind.svg) | ada-Tailwind.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/db-Terminal.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adb-Terminal.svg) | adb-Terminal.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dc-TOML.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adc-TOML.svg) | adc-TOML.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dd-TSX.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/add-TSX.svg) | add-TSX.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/de-TS.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/ade-TS.svg) | ade-TS.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/df-Vue.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adf-Vue.svg) | adf-Vue.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dg-Webpack.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adg-Webpack.svg) | adg-Webpack.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dh-YAML.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adh-YAML.svg) | adh-YAML.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/di-Zig.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adi-Zig.svg) | adi-Zig.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dj-Telescope.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Octicons/adj-Telescope.svg) | adj-Telescope.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dk-Cmake.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adk-Cmake.svg) | adk-Cmake.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dl-Kotlin.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adl-Kotlin.svg) | adl-Kotlin.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dm-Font.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//File-Icons/adm-Font.svg) | adm-Font.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/dn-Vim.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Devicons/adn-Vim.svg) | adn-Vim.svg |  |
+| ![<img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/do-Ubuntu.svg" height="34" valign="bottom" hspace="3" alt=""](./icons//Mfizz/ado-Ubuntu.svg) | ado-Ubuntu.svg |  |
