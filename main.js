@@ -4,6 +4,8 @@ import svg2ttf from "svg2ttf";
 import { readdir, stat, writeFile } from "fs/promises";
 import { createReadStream } from "fs";
 
+import { listIconMarkdown } from "./src/icons.js";
+
 const getAllIcons = async (path, icons = [[], []]) => {
     const files = await readdir(path);
     for (const file of files) {
@@ -43,9 +45,11 @@ let data = "";
     indices.sort((a, b) => iconNames[a].localeCompare(iconNames[b]));
 
     let utf = firstUTF;
+    let iconUnicode = [utf];
 
     for (let i = 0; i < iconsLength; i++) {
         const iconIndex = indices[i];
+
         const glyph = createReadStream(iconPaths[iconIndex]);
         glyph.metadata = {
             unicode: [utf],
@@ -56,6 +60,7 @@ let data = "";
 
         // Credit https://stackoverflow.com/a/31439284/16065010
         utf = (parseInt(utf, 16) + 1).toString(16);
+        iconUnicode.push(utf);
     }
 
     fontStream.end();
@@ -67,5 +72,9 @@ let data = "";
     fontStream.on("end", async () => {
         const ttf = svg2ttf(data, {});
         await writeFile("./fonts/mini-file-icons.ttf", Buffer.from(ttf.buffer));
+
+        // console.log(iconUnicode);
+
+        listIconMarkdown(indices, iconPaths, iconNames, iconUnicode);
     });
 })();
