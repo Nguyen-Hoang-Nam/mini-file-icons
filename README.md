@@ -15,6 +15,17 @@ so if you want more or less then fork it and change.
 
 [Icons](https://github.com/Nguyen-Hoang-Nam/mini-file-icons/blob/main/icons.md)
 
+## Build
+
+If you want to change icons, put your icons in icons directory.
+If your icons have license then create a subdirectory to store
+them with license. You can name your icons whatever you want then
+run this command to build.
+
+```bash
+node main.js
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes,
