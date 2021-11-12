@@ -95,3 +95,5 @@ This is list of icons with svg icon, name of icon and unicode
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/File-Icons/adm-Font.svg" height="34" valign="bottom" hspace="3" alt=""/> | adm-Font.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Devicons/adn-Vim.svg" height="34" valign="bottom" hspace="3" alt=""/> | adn-Vim.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Mfizz/ado-Ubuntu.svg" height="34" valign="bottom" hspace="3" alt=""/> | ado-Ubuntu.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/FontAwesome/adp-Breakpoint.svg" height="34" valign="bottom" hspace="3" alt=""/> | adp-Breakpoint.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/FontAwesome/adq-Debug.svg" height="34" valign="bottom" hspace="3" alt=""/> | adq-Debug.svg |  |
