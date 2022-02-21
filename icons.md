@@ -97,3 +97,6 @@ This is list of icons with svg icon, name of icon and unicode
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Mfizz/ado-Ubuntu.svg" height="34" valign="bottom" hspace="3" alt=""/> | ado-Ubuntu.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adp-Breakpoint.svg" height="34" valign="bottom" hspace="3" alt=""/> | adp-Breakpoint.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adq-Debug.svg" height="34" valign="bottom" hspace="3" alt=""/> | adq-Debug.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adr-Check.svg" height="34" valign="bottom" hspace="3" alt=""/> | adr-Check.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/ads-Note.svg" height="34" valign="bottom" hspace="3" alt=""/> | ads-Note.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adt-Rocket.svg" height="34" valign="bottom" hspace="3" alt=""/> | adt-Rocket.svg |  |
