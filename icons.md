@@ -98,5 +98,8 @@ This is list of icons with svg icon, name of icon and unicode
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adp-Breakpoint.svg" height="34" valign="bottom" hspace="3" alt=""/> | adp-Breakpoint.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adq-Debug.svg" height="34" valign="bottom" hspace="3" alt=""/> | adq-Debug.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adr-Check.svg" height="34" valign="bottom" hspace="3" alt=""/> | adr-Check.svg |  |
-| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/ads-Note.svg" height="34" valign="bottom" hspace="3" alt=""/> | ads-Note.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/ads-Fail.svg" height="34" valign="bottom" hspace="3" alt=""/> | ads-Fail.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adt-Rocket.svg" height="34" valign="bottom" hspace="3" alt=""/> | adt-Rocket.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adu-Noti.svg" height="34" valign="bottom" hspace="3" alt=""/> | adu-Noti.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adv-Run.svg" height="34" valign="bottom" hspace="3" alt=""/> | adv-Run.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Octicons/adw-Test.svg" height="34" valign="bottom" hspace="3" alt=""/> | adw-Test.svg |  |
