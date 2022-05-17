@@ -1,8 +1,10 @@
 import SVGIcons2SVGFontStream from "svgicons2svgfont";
 import svg2ttf from "svg2ttf";
+import parseArgs from "minimist";
 
-import { readdir, stat, writeFile } from "fs/promises";
+import { readdir, stat, writeFile, mkdir } from "fs/promises";
 import { createReadStream } from "fs";
+import path from "path";
 
 import { listIconMarkdown } from "./src/icons.js";
 
@@ -25,12 +27,20 @@ const getAllIcons = async (path, icons = [[], []]) => {
     return icons;
 };
 
-const firstUTF = "e900";
-let data = "";
-
 (async () => {
+    const START_UTF = "e900";
+    const DIST = "fonts";
+    let data = "";
+
+    const args = parseArgs(process.argv);
+
+    let fontName = "mini-file-icons";
+    if ("o" in args && typeof args["o"] === "string") {
+        fontName = args["o"];
+    }
+
     const fontStream = new SVGIcons2SVGFontStream({
-        fontName: "mini-file-icons",
+        fontName,
         normalize: true,
         fontHeight: 1000,
     });
@@ -44,7 +54,7 @@ let data = "";
     const indices = Array.from(iconNames.keys());
     indices.sort((a, b) => iconNames[a].localeCompare(iconNames[b]));
 
-    let utf = firstUTF;
+    let utf = START_UTF;
     let iconUnicode = [utf];
 
     for (let i = 0; i < iconsLength; i++) {
@@ -58,7 +68,6 @@ let data = "";
 
         fontStream.write(glyph);
 
-        // Credit https://stackoverflow.com/a/31439284/16065010
         utf = (parseInt(utf, 16) + 1).toString(16);
         iconUnicode.push(utf);
     }
@@ -71,8 +80,22 @@ let data = "";
 
     fontStream.on("end", async () => {
         const ttf = svg2ttf(data, {});
-        await writeFile("./fonts/mini-file-icons.ttf", Buffer.from(ttf.buffer));
 
-        listIconMarkdown(indices, iconPaths, iconNames, iconUnicode);
+        await stat(DIST)
+            .then(async (stats) => {
+                if (!stats.isDirectory()) {
+                    await mkdir(DIST);
+                }
+            })
+            .catch(async (_) => {
+                await mkdir(DIST);
+            });
+
+        await writeFile(
+            path.join(DIST, fontName + ".ttf"),
+            Buffer.from(ttf.buffer)
+        );
+
+        await listIconMarkdown(indices, iconPaths, iconNames, iconUnicode);
     });
 })();
