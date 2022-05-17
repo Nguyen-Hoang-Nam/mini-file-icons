@@ -26,6 +26,16 @@ run this command to build.
 node main.js
 ```
 
+You can specific font name with `-o`
+
+```bash
+node main.js -o font-name
+```
+
+## TODO
+
+- [ ] Support WOFF, WOFF2 font
+
 ## Contributing
 
 Pull requests are welcome. For major changes,
