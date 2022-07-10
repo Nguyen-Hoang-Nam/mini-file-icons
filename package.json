@@ -1,8 +1,8 @@
 {
     "dependencies": {
-        "minimist": "^1.2.6",
-        "svg2ttf": "^6.0.3",
-        "svgicons2svgfont": "^10.0.5"
+        "minimist": "1.2.6",
+        "svg2ttf": "6.0.3",
+        "svgicons2svgfont": "10.0.5"
     },
     "type": "module"
 }
