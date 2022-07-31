@@ -114,3 +114,4 @@ This is list of icons with svg icon, name of icon and unicode
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Codicons/aef-Bell-dot.svg" height="34" valign="bottom" hspace="3" alt=""/> | aef-Bell-dot.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Codicons/aeg-Bell.svg" height="34" valign="bottom" hspace="3" alt=""/> | aeg-Bell.svg |  |
 | <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Codicons/aeh-Chevron-down.svg" height="34" valign="bottom" hspace="3" alt=""/> | aeh-Chevron-down.svg |  |
+| <img src="https://raw.githubusercontent.com/Nguyen-Hoang-Nam/mini-file-icons/main/icons/Codicons/aei-Chevron-right.svg" height="34" valign="bottom" hspace="3" alt=""/> | aei-Chevron-right.svg |  |
