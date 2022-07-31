@@ -5,7 +5,7 @@ Like [File-Icons-VSCode](https://github.com/file-icons/vscode),
 this font uses several icons from [Devicons](https://github.com/vorillaz/devicons),
 [Mfixx](https://github.com/fizzed/font-mfizz),
 [Octicons](https://github.com/primer/octicons),
-[Nonicons](https://github.com/yamatsum/nonicons)
+[Codicons](https://github.com/microsoft/vscode-codicons)
 and of cource [File-Icons](https://github.com/file-icons/icons).
 
 This font is extremely personal choice,
