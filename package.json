@@ -2,7 +2,7 @@
     "dependencies": {
         "minimist": "1.2.6",
         "svg2ttf": "6.0.3",
-        "svgicons2svgfont": "12.0.0"
+        "svgicons2svgfont": "14.0.2"
     },
     "type": "module",
     "scripts": {
